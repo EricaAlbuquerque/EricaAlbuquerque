@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Erica Albuquerque 👋
 
-🎨 Estudante de **UI Design** e **Desenvolvimento de Aplicativos**.
+🎨 **Front-end jr.** e estudante de **Análise de dados**.
 
 ---
 
@@ -17,3 +17,5 @@
 ### 📊 Estatísticas no GitHub
 
 [![GitHub Streak](https://demolab.com)](https://git.io)
+![Top Langs](https://vercel.app)
+
